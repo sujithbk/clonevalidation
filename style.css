@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(45deg, #ec9613, #72313100);
+    margin: 23px;
+}
+#password :hover{
+    background-color: greenyellow;
+    border: 1px solid black;
+}
+card-img, .card-img-bottom, .card-img-top {
+    
+    width: 100px;
+}
+.container{
+    width: 90%;
+    height: 100vh;
+    background-color: aqua;
+    padding: 77px;
+}
